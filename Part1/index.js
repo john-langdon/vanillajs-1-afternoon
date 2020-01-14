@@ -1,6 +1,6 @@
 console.log(document);
 
-var arr []
+var arr = []
 
 function play(getElementID){
     const playerSpan = document.getElementById('player');
