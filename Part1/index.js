@@ -2,7 +2,7 @@ console.log(document);
 
 var arr = []
 
-function play(getElementID){
+function play(){
     const playerSpan = document.getElementById('player');
 if (playerSpan.innerText === 'X') {
     playerSpan.innerText = 'O';
